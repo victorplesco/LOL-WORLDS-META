@@ -1,0 +1,3 @@
+# LoL_Worlds_2020_PickBanHistory
+https://lol.gamepedia.com/Special:RunQuery/PickBanHistory?PBH%5Bpage%5D=Worlds+2020+Main+Event&PBH%5Btextonly%5D=Yes&pfRunQueryFormName=PickBanHistory
+

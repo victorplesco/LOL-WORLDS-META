@@ -1,0 +1,12 @@
+---
+title: ""
+output: pdf_document
+---
+
+```{r echo = FALSE, results = 'hide', message = FALSE, results = 'asis'}
+source("~/SMARTDRAFT/src/packages/attach.packages.R");
+```
+
+```{r echo = FALSE}
+sessionInfo()
+```

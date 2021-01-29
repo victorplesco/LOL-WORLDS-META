@@ -1,0 +1,34 @@
+python3 -m venv <env_name>
+source <env_name>/bin/activate
+
+# Searching
+python<version> -m pip search astronomy
+# Installing
+python<version> -m pip install <package_name>
+# Checking(NOT ON PATH)
+python<version> -m pip freeze | grep <package_name>
+
+# Create a session info file
+pip freeze > <file_name>.txt
+
+# Set python virtual environment as default in the folder
+CTRL + SHIFT + P -> Python: Select Interpreter -> ./<env_name>/bin/python
+
+#####################################################################################################################################################################
+## References #######################################################################################################################################################
+#####################################################################################################################################################################
+
+# Virtual Environments and Packages
+https://docs.python.org/3/tutorial/venv.html
+
+# The Python Package Index
+https://pypi.org/
+
+# Installing Python Modules
+https://docs.python.org/3/installing/index.html#installing-index
+
+# A Guide to Python's Virtual Environments
+https://towardsdatascience.com/virtual-environments-104c62d48c54
+
+# Using Python environments in VS Code
+https://code.visualstudio.com/docs/python/environments
